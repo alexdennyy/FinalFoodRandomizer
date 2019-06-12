@@ -1,0 +1,37 @@
+.mainHeader{
+  font-size: 48px;
+  margin: auto;
+  background-color: goldenrod;
+  text-align: center;
+  border-radius: 25px;
+  margin-top: 4%;
+}
+
+.row2{
+  margin-top: 8%;
+}
+
+body{
+  background-color: lightgray;
+}
+
+.appInfo{
+  margin-top: 4%;
+  border-radius: 25px;
+  font-size: 18px;
+  text-align: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  background-color: goldenrod;
+}
+
+.foodDisplay{
+  text-align: center;
+  margin-top: 2%;
+  font-size: 24px;
+}
+
+.feedMeContainer{
+  text-align: center;
+  margin-top: 2%;
+}
